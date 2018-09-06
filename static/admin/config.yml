@@ -2,7 +2,7 @@ backend:
   name: github
   repo: evgar/gatsby-site #replace with your username/repo
 
-media_folder: ../assets
+media_folder: assets
 
 collections:
   - name: blog

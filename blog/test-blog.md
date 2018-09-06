@@ -7,4 +7,4 @@ My awesome pandas blog.
 
 Look at that! This is awesome.
 
-![Panda kung-fu](/static/assets/1200px-grosser_panda.jpg)
+![Panda kung-fu](static/assets/1200px-grosser_panda.jpg)

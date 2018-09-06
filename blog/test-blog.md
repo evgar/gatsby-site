@@ -7,4 +7,4 @@ My awesome pandas blog.
 
 Look at that! This is awesome.
 
-![test](/static/assets/1200px-grosser_panda.jpg)
+![](/assets/1200px-grosser_panda.jpg)
